@@ -1,0 +1,11 @@
+1.ספר- ללמוד ג'אווהסקריפט בעברית-רן בן זיק
+2.https://itechindia.co/blog/third-party-api-integrations/ - api
+3.https://medium.com/jspoint/javascript-promises-and-async-await-as-fast-as-possible-d7c8c8ff0abc - async/await
+4.https://www.makeuseof.com/localstorage-javascript/ - localstorage
+5.https://www.youtube.com/watch?v=1PnVor36_40 - css
+6.https://www.youtube.com/watch?v=SyL1thdXmlE - promiss all
+7.https://www.youtube.com/watch?v=drK6mdA9d_M - async
+8. https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V - DOM Tutorial
+9.https://www.youtube.com/watch?v=AqMt0TmWYEs - link js to html
+10. https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G - html basics
+11. https://bobbyhadz.com/blog/javascript-check-if-array-contains-object - contains method

@@ -1,0 +1,103 @@
+/* For all */
+* {
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    
+}
+
+body {
+    margin: 0;
+}
+
+/* Navbar */
+#navPokemon {
+    background-color: azure;
+    padding: 18px;
+}
+
+#navPokemon li {
+    display: inline-block;
+    margin : 5px;
+    font-size: 30px;
+    font-weight : bold;
+}
+
+#navPokemon a {
+    text-decoration: none; /* delete the line under the links */
+    color: black
+}
+
+/* all pokemons section */
+
+.allPokemons{
+    margin: 0 auto; 
+    width: 80%;
+    /* style the section in the middle of the page */
+}
+
+
+.divEachPokemon {
+    border: 2px solid gray;
+    transition: all .2s ease-in-out;
+    margin : 3px 10px;
+    /* 3px top and bottom, 10px left and right */
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 7px;
+}
+
+.divEachPokemon:hover{
+    box-shadow: 2px 2px 7px 2px;
+    transform: scale(1.02);
+}
+
+.imagePokemon {
+    width: 200px;
+    display: block;
+    margin: 0 auto;  /* center in the middle */
+}
+
+.btnPokemon {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+    margin: 3px;
+    cursor: pointer;
+    border: 1px solid darkblue;
+}
+
+.nameTitlePokemon {
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+/* More Info Pokemon */
+
+.sectionMoreInfo {
+   padding: 10px;
+   width: 70%;
+   margin: 0 auto;
+   border: 1px solid grey;
+}
+
+.sectionMoreInfo div {
+    margin: 20px;
+}
+
+.hidden {
+    display:none;
+}
+
+/* Favorites pokemon */
+
+#titleFavorites {
+    text-align: center;
+    padding: 5px;
+}
+
+.clearbtn {
+    display: block;
+}
